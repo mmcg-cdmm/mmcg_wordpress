@@ -63,11 +63,11 @@ This theme, like WordPress, is licensed under the GPL.
 /* Dropdown integration end*/
 @font-face {
 	font-family: 'fontawesome';
-	src:  url('./fonts/fontawesome.eot?m20g1t');
-	src:  url('./fonts/fontawesome.eot?m20g1t#iefix') format('embedded-opentype'),
-	url('./fonts/fontawesome.ttf?m20g1t') format('truetype'),
-	url('./fonts/fontawesome.woff?m20g1t') format('woff'),
-	url('./fonts/fontawesome.svg?m20g1t#fontawesome') format('svg');
+	src:  url('/wp-content/themes/blogfeedly/fonts/fontawesome.eot?m20g1t');
+	src:  url('/wp-content/themes/blogfeedly/fonts/fontawesome.eot?m20g1t#iefix') format('embedded-opentype'),
+	url('/wp-content/themes/blogfeedly/fonts/fontawesome.ttf?m20g1t') format('truetype'),
+	url('/wp-content/themes/blogfeedly/fonts/fontawesome.woff?m20g1t') format('woff'),
+	url('/wp-content/themes/blogfeedly/fonts/fontawesome.svg?m20g1t#fontawesome') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
