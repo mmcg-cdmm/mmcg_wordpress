@@ -3,7 +3,6 @@
 /category/uncategorized/feed/
 /comments/feed/
 /feed/
-/sample-page/feed/
 /wp-includes/css/dist/block-library/style.min.css
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.js
