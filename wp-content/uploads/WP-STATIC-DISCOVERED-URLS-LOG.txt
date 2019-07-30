@@ -2,6 +2,7 @@
 /2019/07/29/hello-world/
 /2019/07/29/hello-world/feed/
 /author/weugene/
+/bla-bla/
 /category/uncategorized/
 /category/uncategorized/feed/
 /comments/feed/
@@ -10,11 +11,14 @@
 /sample-page/feed/
 /wp-content/themes/blogfeedly/js/custom.js
 /wp-content/themes/blogfeedly/style.css
-/wp-content/uploads/2019/07/cropped-cropped-campus1.jpg
-/wp-content/uploads/2019/07/cropped-mmc-180x180.jpg
-/wp-content/uploads/2019/07/cropped-mmc-192x192.jpg
-/wp-content/uploads/2019/07/cropped-mmc-270x270.jpg
-/wp-content/uploads/2019/07/cropped-mmc-32x32.jpg
+/wp-content/uploads/2019/07/cropped-cropped-campus1-1.jpg
+/wp-content/uploads/2019/07/cropped-logo-180x180.png
+/wp-content/uploads/2019/07/cropped-logo-192x192.png
+/wp-content/uploads/2019/07/cropped-logo-270x270.png
+/wp-content/uploads/2019/07/cropped-logo-32x32.png
+/wp-content/uploads/2019/07/mmc-1-150x150.jpg
+/wp-content/uploads/2019/07/mmc-1-300x300.jpg
+/wp-content/uploads/2019/07/mmc-1.jpg
 /wp-includes/css/dist/block-library/style.min.css
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.js

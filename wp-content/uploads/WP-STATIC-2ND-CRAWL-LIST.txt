@@ -4,11 +4,6 @@
 /comments/feed/
 /feed/
 /sample-page/feed/
-/wp-content/uploads/2019/07/cropped-cropped-campus1.jpg
-/wp-content/uploads/2019/07/cropped-mmc-180x180.jpg
-/wp-content/uploads/2019/07/cropped-mmc-192x192.jpg
-/wp-content/uploads/2019/07/cropped-mmc-270x270.jpg
-/wp-content/uploads/2019/07/cropped-mmc-32x32.jpg
 /wp-includes/css/dist/block-library/style.min.css
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.js
